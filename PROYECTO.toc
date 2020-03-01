@@ -1,0 +1,13 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Normas ISO 9001. -}{2}%
+\contentsline {section}{\numberline {2}Caso de estudio.-}{2}%
+\contentsline {section}{\numberline {3}Descripción del sistema de una Librería y Papelería}{3}%
+\contentsline {subsection}{\numberline {3.1}Realización del producto:}{3}%
+\contentsline {subsection}{\numberline {3.2}Procesos relacionados con el cliente:}{4}%
+\contentsline {subsection}{\numberline {3.3}Comunicación con el cliente}{4}%
+\contentsline {subsection}{\numberline {3.4}Diseño y desarrollo:}{5}%
+\contentsline {subsection}{\numberline {3.5}Validación del diseño y desarrollo:}{5}%
+\contentsline {subsection}{\numberline {3.6}Elementos de entrada para el diseño y desarrollo}{5}%
+\contentsline {subsection}{\numberline {3.7}Producción y prestación del servicio}{6}%
+\contentsline {subsection}{\numberline {3.8}Identificación y trazabilidad}{7}%
+\contentsline {section}{\numberline {4}Conclusión}{8}%
